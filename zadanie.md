@@ -52,3 +52,9 @@ git checkout master
 ```
 git diff
 ```
+
+### **Для того, чтобы легче было ориентироваться в синтаксисе Markdown ниже прикрепляю ссылку на шпаргалку:**
+<https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html>
+
+## Спасибо за внимание!
+![1](rep.jpg)
